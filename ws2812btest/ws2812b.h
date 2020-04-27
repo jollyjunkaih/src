@@ -2,7 +2,7 @@
 #ifndef _WS2812B_H_
 #define _WS2812B_H_
 
-#include "elecanisms3.h"
+#include "elecanisms.h"
 
 #define WS2812B_OUT         D0
 #define WS2812B_OUT_DIR     D0_OUT
