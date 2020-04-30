@@ -10,6 +10,8 @@
 void init_ws2812b(void);
 void ws2812b_write(uint8_t red, uint8_t green, uint8_t blue);
 void ws2812b_clear(uint16_t num);
+void ws2811_write(uint8_t red, uint8_t green, uint8_t blue);
+void ws2811_clear(uint16_t num);
 
 #endif
 
